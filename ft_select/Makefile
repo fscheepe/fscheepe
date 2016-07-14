@@ -17,7 +17,7 @@ quick:
 
 clean:
 	@echo [31mCleaning up useless files...[0m
-	rm -f .*.
+	rm -f ._*
 	rm -f .ft_select.*
 	@echo [32mDONE[0m
 
